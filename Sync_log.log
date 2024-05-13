@@ -1,0 +1,168 @@
+2024-05-12 19:28:22,227 - INFO: Starting File Sync
+2024-05-12 19:28:22,230 - INFO: File Sync finished
+2024-05-12 19:28:22,231 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:28:25,233 - INFO: Starting File Sync
+2024-05-12 19:28:25,233 - INFO: File Sync finished
+2024-05-12 19:28:25,233 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:28:28,240 - INFO: Starting File Sync
+2024-05-12 19:28:28,243 - INFO: File Sync finished
+2024-05-12 19:28:28,247 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:28:31,249 - INFO: Starting File Sync
+2024-05-12 19:28:31,251 - INFO: File Sync finished
+2024-05-12 19:28:31,252 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:28:34,255 - INFO: Starting File Sync
+2024-05-12 19:28:34,256 - INFO: File Sync finished
+2024-05-12 19:28:34,258 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:28:34,474 - INFO: Sync stoped: user intervention
+2024-05-12 19:34:25,874 - INFO: Starting File Sync
+2024-05-12 19:34:25,875 - INFO: File Sync finished
+2024-05-12 19:34:25,875 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:34:28,876 - INFO: Starting File Sync
+2024-05-12 19:34:28,876 - INFO: File Sync finished
+2024-05-12 19:34:28,876 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:34:31,877 - INFO: Starting File Sync
+2024-05-12 19:34:31,877 - INFO: File Sync finished
+2024-05-12 19:34:31,877 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:34:34,878 - INFO: Starting File Sync
+2024-05-12 19:34:34,878 - INFO: File Sync finished
+2024-05-12 19:34:34,878 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:34:37,880 - INFO: Starting File Sync
+2024-05-12 19:34:37,880 - INFO: File Sync finished
+2024-05-12 19:34:37,880 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:34:38,052 - INFO: Sync stoped: user intervention
+2024-05-12 19:35:06,663 - INFO: Starting File Sync
+2024-05-12 19:35:06,663 - INFO: File Sync finished
+2024-05-12 19:35:06,663 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:35:09,664 - INFO: Starting File Sync
+2024-05-12 19:35:09,664 - INFO: File Sync finished
+2024-05-12 19:35:09,664 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:35:11,463 - INFO: Sync stoped: user intervention
+2024-05-12 19:36:19,065 - INFO: Starting File Sync
+2024-05-12 19:36:19,065 - INFO: File Sync finished
+2024-05-12 19:36:19,065 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:22,067 - INFO: Starting File Sync
+2024-05-12 19:36:22,068 - INFO: File Sync finished
+2024-05-12 19:36:22,068 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:25,070 - INFO: Starting File Sync
+2024-05-12 19:36:25,070 - INFO: File Sync finished
+2024-05-12 19:36:25,070 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:28,071 - INFO: Starting File Sync
+2024-05-12 19:36:28,072 - INFO: File Sync finished
+2024-05-12 19:36:28,072 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:29,229 - INFO: Sync stoped: user intervention
+2024-05-12 19:36:32,934 - INFO: Starting File Sync
+2024-05-12 19:36:32,935 - INFO: File Sync finished
+2024-05-12 19:36:32,935 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:35,936 - INFO: Starting File Sync
+2024-05-12 19:36:35,936 - INFO: File Sync finished
+2024-05-12 19:36:35,936 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:38,939 - INFO: Starting File Sync
+2024-05-12 19:36:38,940 - INFO: File Sync finished
+2024-05-12 19:36:38,940 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:41,942 - INFO: Starting File Sync
+2024-05-12 19:36:41,942 - INFO: File Sync finished
+2024-05-12 19:36:41,945 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:44,947 - INFO: Starting File Sync
+2024-05-12 19:36:44,949 - INFO: File Sync finished
+2024-05-12 19:36:44,950 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:47,951 - INFO: Starting File Sync
+2024-05-12 19:36:47,952 - INFO: File Sync finished
+2024-05-12 19:36:47,952 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:36:48,786 - INFO: Sync stoped: user intervention
+2024-05-12 19:37:23,529 - INFO: Starting File Sync
+2024-05-12 19:37:23,530 - WARNING: replica path does not exist
+2024-05-12 19:37:23,530 - INFO: replica path created
+2024-05-12 19:37:23,532 - INFO: copied directory tree
+2024-05-12 19:37:23,534 - INFO: copied file
+2024-05-12 19:37:23,534 - INFO: File Sync finished
+2024-05-12 19:37:23,534 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:37:26,536 - INFO: Starting File Sync
+2024-05-12 19:37:26,536 - INFO: File Sync finished
+2024-05-12 19:37:26,536 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:37:29,541 - INFO: Starting File Sync
+2024-05-12 19:37:29,541 - INFO: File Sync finished
+2024-05-12 19:37:29,541 - INFO: sleeping for 3.0 seconds...
+2024-05-12 19:37:30,504 - INFO: Sync stoped: user intervention
+2024-05-12 20:18:35,472 - INFO: Starting File Sync
+2024-05-12 20:18:35,483 - INFO: File Sync finished
+2024-05-12 20:18:35,483 - INFO: sleeping for 3.0 seconds...
+2024-05-12 20:18:38,004 - INFO: Sync stoped: user intervention
+2024-05-12 20:20:28,148 - INFO: Starting File Sync
+2024-05-12 20:20:28,148 - ERROR: source path does not exist
+2024-05-12 20:20:40,114 - INFO: Starting File Sync
+2024-05-12 20:20:40,115 - INFO: File Sync finished
+2024-05-12 20:20:40,115 - INFO: sleeping for 3.0 seconds...
+2024-05-12 20:20:43,116 - INFO: Starting File Sync
+2024-05-12 20:20:43,116 - INFO: File Sync finished
+2024-05-12 20:20:43,116 - INFO: sleeping for 3.0 seconds...
+2024-05-12 20:20:44,013 - INFO: Sync stoped: user intervention
+2024-05-13 12:30:40,635 - INFO: Starting File Sync
+2024-05-13 12:30:40,643 - INFO: File Sync finished
+2024-05-13 12:30:40,648 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:30:43,649 - INFO: Starting File Sync
+2024-05-13 12:30:43,652 - INFO: File Sync finished
+2024-05-13 12:30:43,652 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:30:46,655 - INFO: Starting File Sync
+2024-05-13 12:30:46,658 - INFO: File Sync finished
+2024-05-13 12:30:46,658 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:30:48,201 - INFO: Sync stoped: user intervention
+2024-05-13 12:35:19,077 - INFO: Starting File Sync
+2024-05-13 12:35:19,082 - INFO: File Sync finished
+2024-05-13 12:35:19,082 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:35:22,085 - INFO: Starting File Sync
+2024-05-13 12:35:22,085 - INFO: File Sync finished
+2024-05-13 12:35:22,089 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:35:23,426 - INFO: Sync stoped: user intervention
+2024-05-13 12:37:04,516 - INFO: Starting File Sync
+2024-05-13 12:37:04,517 - INFO: File Sync finished
+2024-05-13 12:37:04,517 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:37:07,519 - INFO: Starting File Sync
+2024-05-13 12:37:07,519 - INFO: File Sync finished
+2024-05-13 12:37:07,519 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:37:10,521 - INFO: Starting File Sync
+2024-05-13 12:37:10,521 - INFO: File Sync finished
+2024-05-13 12:37:10,521 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:37:10,597 - INFO: Sync stoped: user intervention
+2024-05-13 12:43:36,750 - INFO: Starting File Sync
+2024-05-13 12:43:36,750 - INFO: File Sync finished
+2024-05-13 12:43:36,750 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:43:39,756 - INFO: Starting File Sync
+2024-05-13 12:43:39,756 - INFO: File Sync finished
+2024-05-13 12:43:39,756 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:43:40,110 - INFO: Sync stoped: user intervention
+2024-05-13 12:45:04,244 - INFO: Starting File Sync
+2024-05-13 12:45:04,244 - INFO: File Sync finished
+2024-05-13 12:45:04,244 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:45:07,249 - INFO: Starting File Sync
+2024-05-13 12:45:07,249 - INFO: File Sync finished
+2024-05-13 12:45:07,249 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:45:10,256 - INFO: Starting File Sync
+2024-05-13 12:45:10,256 - INFO: File Sync finished
+2024-05-13 12:45:10,256 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:45:11,552 - INFO: Sync stoped: user intervention
+2024-05-13 12:45:34,249 - INFO: Starting File Sync
+2024-05-13 12:45:34,249 - INFO: File Sync finished
+2024-05-13 12:45:34,249 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:45:37,252 - INFO: Starting File Sync
+2024-05-13 12:45:37,255 - INFO: File Sync finished
+2024-05-13 12:45:37,255 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:45:38,698 - INFO: Sync stoped: user intervention
+2024-05-13 12:46:28,777 - INFO: Starting File Sync
+2024-05-13 12:46:28,777 - INFO: File Sync finished
+2024-05-13 12:46:28,782 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:46:31,782 - INFO: Starting File Sync
+2024-05-13 12:46:31,784 - INFO: File Sync finished
+2024-05-13 12:46:31,784 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:46:34,790 - INFO: Starting File Sync
+2024-05-13 12:46:34,790 - INFO: File Sync finished
+2024-05-13 12:46:34,793 - INFO: sleeping for 3.0 seconds...
+2024-05-13 12:46:36,207 - INFO: Sync stoped: user intervention
+2024-05-13 12:46:42,397 - INFO: Starting File Sync
+2024-05-13 16:31:20,575 - INFO: Starting File Sync
+2024-05-13 16:31:20,581 - INFO: Updated file
+2024-05-13 16:31:20,581 - INFO: File Sync finished
+2024-05-13 16:31:20,581 - INFO: sleeping for 3.0 seconds...
+2024-05-13 16:31:23,583 - INFO: Starting File Sync
+2024-05-13 16:31:23,585 - INFO: File Sync finished
+2024-05-13 16:31:23,586 - INFO: sleeping for 3.0 seconds...
+2024-05-13 16:31:24,145 - INFO: Sync stoped: user intervention
